@@ -44,11 +44,7 @@ server {
     }
 
     location /media/{
-        alias /var/www/kittygram/media;
-    types {
-        image/jpeg jpeg jpg;
-        image/png png;
-        }
+        alias /var/www/kittygram/media/;
     }
 
     location / {
