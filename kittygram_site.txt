@@ -1,0 +1,5 @@
+IP: 192.168.3.52;
+name_taski: taski.practicum-work.ru;
+name_kittygram: kittygram.practicum-work.ru;
+login: admin;
+password: Reanima89;
